@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(229, 6%, 66%);
+}
+
+.card__main {
+  height: 100%;
+  width: 331px;
+  margin: auto;
+  padding: 112px 20px 30px 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.card__main .section__container {
+  text-align: center;
+  height: 100% px;
+  width: 331px;
+}
+.card__main .section__container h1 {
+  font-size: 25px;
+  font-weight: 200;
+}
+.card__main .section__container h2 {
+  color: hsl(234, 12%, 34%);
+  font-size: 25px;
+}
+.card__main .section__container p {
+  font-size: 15px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.card__main .first-section {
+  margin-bottom: 50px;
+  font-size: 13px;
+  padding: 20px;
+  height: 224px;
+  width: 314px;
+  border-radius: 0.5rem;
+  -webkit-box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+          box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+  border-top: 4px solid hsl(180, 62%, 55%);
+  position: relative;
+}
+.card__main .first-section h3 {
+  color: hsl(234, 12%, 34%);
+}
+.card__main .first-section div img {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.card__main .second-section {
+  margin-bottom: 50px;
+  font-size: 13px;
+  padding: 20px;
+  height: 224px;
+  width: 314px;
+  border-radius: 0.5rem;
+  -webkit-box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+          box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+  border-top: 4px solid hsl(180, 62%, 55%);
+  position: relative;
+  border-top: 4px solid hsl(0, 78%, 62%);
+}
+.card__main .second-section h3 {
+  color: hsl(234, 12%, 34%);
+}
+.card__main .second-section div img {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.card__main .third-section {
+  margin-bottom: 50px;
+  font-size: 13px;
+  padding: 20px;
+  height: 224px;
+  width: 314px;
+  border-radius: 0.5rem;
+  -webkit-box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+          box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+  border-top: 4px solid hsl(180, 62%, 55%);
+  position: relative;
+  border-top: 4px solid hsl(34, 97%, 64%);
+}
+.card__main .third-section h3 {
+  color: hsl(234, 12%, 34%);
+}
+.card__main .third-section div img {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+.card__main .fourth-section {
+  margin-bottom: 50px;
+  font-size: 13px;
+  padding: 20px;
+  height: 224px;
+  width: 314px;
+  border-radius: 0.5rem;
+  -webkit-box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+          box-shadow: 0px 0px 3px hsl(212, 86%, 64%);
+  border-top: 4px solid hsl(180, 62%, 55%);
+  position: relative;
+  border-top: 4px solid hsl(212, 86%, 64%);
+}
+.card__main .fourth-section h3 {
+  color: hsl(234, 12%, 34%);
+}
+.card__main .fourth-section div img {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+/*footer*/
+.attribution {
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/*responsive*//*# sourceMappingURL=main.css.map */
